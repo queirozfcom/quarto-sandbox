@@ -1,0 +1,8 @@
+# Chapter 2 title {#sec-ch-chapter-2}
+
+some introductory text for chapter 2..
+
+- and 
+- some
+- more
+- bullets

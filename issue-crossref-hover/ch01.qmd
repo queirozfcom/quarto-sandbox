@@ -1,0 +1,23 @@
+# Chapter 1 title {#sec-ch-chapter-1}
+
+Introductory text for chapter 1 title...
+
+**This crossref looks broken because the title of chapter 2 is not included:** @sec-ch-chapter-2 
+
+These are OK though:
+
+- @sec-2-level-2
+- @sec-3-level-3 
+
+
+## Level 2 section {#sec-2-level-2}
+
+introductory text for **level 2 section on chapter 1**
+
+### Level 3 section {#sec-3-level-3}
+
+introductory text for **level 3 section on chapter 1**
+
+- and
+- some
+- bullets

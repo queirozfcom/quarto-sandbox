@@ -1,0 +1,26 @@
+project:
+  type: book
+  preview:
+    port: 4400  
+
+book:
+  title: "issue-crossref-hover"
+  author: "Norah Jones"
+  date: "6/8/2025"
+  chapters:
+    - index.qmd
+    - ch01.qmd
+    - ch02.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
