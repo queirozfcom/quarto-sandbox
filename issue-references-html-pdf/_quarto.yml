@@ -26,5 +26,4 @@ format:
       - brand
   pdf:
     documentclass: scrreprt
-    citeproc: false
 
