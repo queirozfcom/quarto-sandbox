@@ -1,3 +1,8 @@
 # Ch02 {#sec-02}
 
-Some text
+Chapter 2 cites @cho_et_al_2014_grus and @deepseekai_2025_deepseekr1
+
+## foo bar
+
+::: {.sectionrefs}
+:::

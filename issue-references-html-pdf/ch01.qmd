@@ -1,3 +1,10 @@
 # Ch01
 
 This is a cross-ref to @sec-02
+
+Chapter 1 cites @azar_et_al_2023_ipo and @bahdanau_et_al_2014_attention
+
+## references
+
+::: {.sectionrefs}
+:::

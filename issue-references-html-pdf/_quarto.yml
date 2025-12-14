@@ -15,7 +15,9 @@ book:
 bibliography: references.bib
 
 filters:
+  - quarto
   - section-bibliographies
+
 
 format:
   html:
@@ -25,6 +27,4 @@ format:
   pdf:
     documentclass: scrreprt
     citeproc: false
-
-
 
