@@ -14,16 +14,17 @@ book:
 
 bibliography: references.bib
 
-filters:
-  - quarto
-  - section-bibliographies
-
-
 format:
   html:
     theme:
       - cosmo
       - brand
+    filters:
+      - section-bibliographies    
   pdf:
+    citeproc: false
+    filters:
+      - section-bibliographies
+      - quarto
     documentclass: scrreprt
 
